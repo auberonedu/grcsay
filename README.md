@@ -1,5 +1,12 @@
 # grcsay
+<<<<<<< HEAD
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
+=======
+An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code. Jameson Was Here for a second time
+>>>>>>> 8b19bef5b603e575b7c56a7d2f892bd4d9444079
+
+
+Hello!!!! 
 
 ## Setting up git merging strategy
 1. Each partner should run these commands on their own terminal. DO NOT SKIP THIS PART!!!
@@ -67,7 +74,7 @@ We will now artificially trigger a merge conflict. When we follow good git pract
 
 1. Have BOTH Partner A and Partner B edit the below line. Each person should make it say something different.
     ```
-    EDIT THIS LINE
+    This is Danny making his edit. It's gone now 
     ```
 1. Have BOTH Partner A and Partner B add, commit, and push the changes. You can refer to the above steps for a refresher on how to add/commit/push. One of the partners will get an error saying that their changes can't be pushed. This is OK and expected. Today we are practicing how to resolve this error.
 1. Have the error partner pull the other partner's changes:
