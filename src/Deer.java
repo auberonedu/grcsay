@@ -12,4 +12,8 @@ public class Deer implements Animal {
         "                 |   `.__________/)";
     }
 
+    @Override
+  public String toString() {
+    return "deer";
+  }
 }
