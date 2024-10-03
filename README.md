@@ -11,7 +11,9 @@ An exercise for collaborating with git / GitHub. Please read the directions CARE
     ```
     This will tell git to perform fast forwards when possible, never rebase, and create merge commits when necessary. We will not cover the differences between these in-depth in class, but feel free on your own time to research them using search engines or AI if you're interested. Explore your curiosity!
 
-HERES PARTNER A CHANGE
+HERES PARTNER A CHANGE 
+
+KKBIEAJFSKLFa
 
 ## Setup project
 1. Choose one partner to be Partner A, one partner to Partner B.
