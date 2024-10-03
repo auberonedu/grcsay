@@ -1,3 +1,12 @@
+/**
+ * The dog class represents a dog and provides its ASCII art representation.
+ * This class implements the Animal interface and overrides the getAnimalArt 
+ * and toString methods.
+ * 
+ * Dog by Maija Haavisto. See license file for more details.
+ */
+
+
 public class Dog implements Animal{
     /**
    * Returns the ASCII art representation of the dog.
