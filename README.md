@@ -1,6 +1,7 @@
 # grcsay
 
 Hello Doggy Hello
+Hello and Goodbye
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
 
 ## Setting up git merging strategy
