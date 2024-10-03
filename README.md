@@ -1,7 +1,9 @@
 # grcsay
 Hello, I was here!
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
+
 Put whatever
+HAHAHAHAHAHAHA
 Hello, I am also here - Juno.
 
 WHAT ARE WE EVEN DOING HERE LOL
