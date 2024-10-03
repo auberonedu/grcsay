@@ -7,6 +7,8 @@ class Sheep implements Animal {
 
   /**
    * Returns the ASCII art representation of the sheep.
+   * Art by Maija Haavisto
+   * https://www.asciiart.eu/animals/dogs
    *
    * @return A string containing the ASCII art of the sheep.
    */

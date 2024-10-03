@@ -7,6 +7,7 @@ class Deer implements Animal {
 
   /**
    * Returns the ASCII art representation of the deer.
+   * Adapted from https://www.asciiart.eu/animals/deer
    *
    * @return A string containing the ASCII art of the deer.
    */
