@@ -1,7 +1,7 @@
 # grcsay
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
 
-added random words more random words added
+added random words more random words added!!!
 
 Hello!
 
