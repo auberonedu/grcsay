@@ -12,7 +12,12 @@ class Crab implements Animal {
      */
     @Override
     public String getAnimalArt() {
-        return "\\\\ )        ( /\n \\\\\\\\__^__^__//\n _\\\\________/_\n \\\\ / /  \\\\ \\\\ /\n   \\\\ \\\\  / /";
+        return "    \\ \n" +
+               "\\ )  \\     ( /\n" +
+               " \\\\__^__^__//\n" +
+               " _\\________/_\n" +
+               " \\ / /  \\ \\ /\n" +
+               "   \\ \\  / /";
 
     }
   
