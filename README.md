@@ -3,6 +3,7 @@ An exercise for collaborating with git / GitHub. Please read the directions CARE
 
 ## Setting up git merging strategy
 1. Each partner should run these commands on their own terminal. DO NOT SKIP THIS PART!!! I said "DO NOT SKIP SIR!"
+AMAZING WORK I SEE! Tyler's edit
     ```
     git config --global pull.ff true
     git config --global pull.rebase false
