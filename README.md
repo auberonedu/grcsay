@@ -2,13 +2,17 @@
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
 
 ## Setting up git merging strategy
-1. Each partner should run these commands on their own terminal. DO NOT SKIP THIS PART!!!
+1. Each partner should run these commands on their own terminal. DO NOT SKIP THIS PART!!! I said "DO NOT SKIP SIR!"
+AMAZING WORK I SEE! Tyler's edit
     ```
     git config --global pull.ff true
     git config --global pull.rebase false
     ```
     This will tell git to perform fast forwards when possible, never rebase, and create merge commits when necessary. We will not cover the differences between these in-depth in class, but feel free on your own time to research them using search engines or AI if you're interested. Explore your curiosity!
 
+
+## I'M THE CHOSEN ONE!
+-Tyler
 ## Setup project
 1. Choose one partner to be Partner A, one partner to Partner B.
 1. Have ONLY Partner A fork this repository. PARTNER B SHOULD NOT FORK.
