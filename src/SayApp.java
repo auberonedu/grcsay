@@ -71,12 +71,14 @@ public class SayApp {
 
     /**
      * Provides a list of available animals.
-     * Currently, the only available animal is the Cow.
+     * Originally, the only available animal was the Cow.
+     * In homework project Partner A added a Deer class,
+     * and partner B added a Dog class.
      *
      * @return A list of Animal objects.
      */
     public static List<Animal> animalList() {
-      return Arrays.asList(new Cow());
+      return Arrays.asList(new Cow(), new Deer());
     }
 
     /**
