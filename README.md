@@ -2,6 +2,7 @@
 
 HelloWorld
 2Hellowworld
+
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
 
 ## Setting up git merging strategy
@@ -74,9 +75,11 @@ We will first practice making changes that do not trigger a merge conflict. In g
 We will now artificially trigger a merge conflict. When we follow good git practices (small, frequent commits, pulling frequently) these won't happen as often. But they will happen time to time! In this part we'll get experience in resolving them once they arise.
 
 1. Have BOTH Partner A and Partner B edit the below line. Each person should make it say something different.
+
    ```
-   EDIT THIS LINE
+   kaliid
    ```
+
 1. Have BOTH Partner A and Partner B add, commit, and push the changes. You can refer to the above steps for a refresher on how to add/commit/push. One of the partners will get an error saying that their changes can't be pushed. This is OK and expected. Today we are practicing how to resolve this error.
 1. Have the error partner pull the other partner's changes:
    ```
