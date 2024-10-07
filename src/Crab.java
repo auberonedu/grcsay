@@ -1,4 +1,5 @@
 /**
+ * CREATED BY: Augy Markham
  * The Crab class represents a crab and provides its ASCII art representation.
  * This class implements the Animal interface and overrides the getAnimalArt 
  * and toString methods.
