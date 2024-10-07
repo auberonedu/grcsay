@@ -77,7 +77,11 @@ We will now artificially trigger a merge conflict. When we follow good git pract
 1. Have BOTH Partner A and Partner B edit the below line. Each person should make it say something different.
 
    ```
+<<<<<<< HEAD
    kaliid
+=======
+   Jesse
+>>>>>>> a173417a6bcc2875afb7102f8f7695f412d95766
    ```
 
 1. Have BOTH Partner A and Partner B add, commit, and push the changes. You can refer to the above steps for a refresher on how to add/commit/push. One of the partners will get an error saying that their changes can't be pushed. This is OK and expected. Today we are practicing how to resolve this error.
