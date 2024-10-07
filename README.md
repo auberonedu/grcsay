@@ -67,8 +67,9 @@ We will now artificially trigger a merge conflict. When we follow good git pract
 
 1. Have BOTH Partner A and Partner B edit the below line. Each person should make it say something different.
     ```
-    EDIT THIS LINE
-    ```
+
+    Augy edited this line TIA EDITED THIS LINE
+
 1. Have BOTH Partner A and Partner B add, commit, and push the changes. You can refer to the above steps for a refresher on how to add/commit/push. One of the partners will get an error saying that their changes can't be pushed. This is OK and expected. Today we are practicing how to resolve this error.
 1. Have the error partner pull the other partner's changes:
     ```
@@ -137,4 +138,6 @@ Try updating the program so that it can handle multiple lines of text. Or make a
 
 [Deer](art/deer.txt)
 
-
+## Changes
+Tia made a change!
+Augy was here :)
