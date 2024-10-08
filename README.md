@@ -1,5 +1,7 @@
 # grcsay
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
+https://github.com/auberonedu/grcsay/pull/12
+
 
 ## Setting up git merging strategy
 1. Each partner should run these commands on their own terminal. DO NOT SKIP THIS PART!!!
@@ -8,6 +10,10 @@ An exercise for collaborating with git / GitHub. Please read the directions CARE
     git config --global pull.rebase false
     ```
     This will tell git to perform fast forwards when possible, never rebase, and create merge commits when necessary. We will not cover the differences between these in-depth in class, but feel free on your own time to research them using search engines or AI if you're interested. Explore your curiosity!
+
+HERES PARTNER A CHANGE 
+
+KKBIEAJFSKLFa
 
 ## Setup project
 1. Choose one partner to be Partner A, one partner to Partner B.
@@ -67,8 +73,13 @@ We will now artificially trigger a merge conflict. When we follow good git pract
 
 1. Have BOTH Partner A and Partner B edit the below line. Each person should make it say something different.
     ```
-    EDIT THIS LINE
+<<<<<<< HEAD
+    Wu tang is for the kids
+     ```
+
+    ASHFKASFJ OIASJFIO
     ```
+>>>>>>> 5ced8a8cdad7b5647de8c670028ce469118d0d60
 1. Have BOTH Partner A and Partner B add, commit, and push the changes. You can refer to the above steps for a refresher on how to add/commit/push. One of the partners will get an error saying that their changes can't be pushed. This is OK and expected. Today we are practicing how to resolve this error.
 1. Have the error partner pull the other partner's changes:
     ```

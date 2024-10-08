@@ -75,8 +75,10 @@ public class SayApp {
      *
      * @return A list of Animal objects.
      */
+
+    //  To get it to run in the main app just add it below as a new XYZ();
     public static List<Animal> animalList() {
-      return Arrays.asList(new Cow());
+      return Arrays.asList(new Cow(), new Elephant(), new Cat());
     }
 
     /**
