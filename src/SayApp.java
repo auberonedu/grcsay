@@ -78,8 +78,8 @@ public class SayApp {
 
     //  To get it to run in the main app just add it below as a new XYZ();
     public static List<Animal> animalList() {
-      return Arrays.asList(new Cow(), new Elephant());
-    
+      return Arrays.asList(new Cow(), new Elephant(), new Cat());
+    cat
     }
 
     /**
